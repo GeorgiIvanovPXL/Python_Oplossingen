@@ -1,0 +1,1 @@
+print("Aantal seconden in twee weken: ", (14 * 24) * 60 * 60)
